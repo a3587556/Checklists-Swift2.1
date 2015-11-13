@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AllListsViewController.viewDidAppear(Bool) -&gt; ():AllListsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSUserDefaults.standardUserDefaults()&#10;">
+            </PersistentString>
+            <PersistentString
+               value = "dataModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChecklistViewController.addItemViewController(AddItemViewController, didFinishEditingItem : ChecklistItem) -&gt; ():ChecklistViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "items">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChecklistViewController.prepareForSegue(UIStoryboardSegue, sender : AnyObject?) -&gt; ():ChecklistViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "items[indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
